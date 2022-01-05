@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.0",
+  "appInfo": {
+    "name": "DJORDERS",
+    "description": "Sample application for e-commerce",
+    "version": "ljxt2tm0",
+    "id": "cky1w3pz932326301s6fwcsl12f",
+    "url": "https://app.amplication.com/cky1w3pz932326301s6fwcsl12f",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cky1w3pz932326301s6fwcsl12f",
+      "authProvider": "Jwt"
+    }
+  }
+}
